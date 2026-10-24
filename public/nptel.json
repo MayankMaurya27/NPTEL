@@ -1,0 +1,2931 @@
+{
+  "title": "Combined Environmental Justice Questions (Weeks 0–12)",
+  "total_questions": 247,
+  "weeks": [
+    {
+      "title": "Week 0",
+      "questions": [
+        {
+          "id": 1,
+          "question": "National Green Tribunal is the appropriate forum for dealing with all cases relating to the environment, including cruelty to animals.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "B",
+          "answer_text": "False"
+        },
+        {
+          "id": 2,
+          "question": "The Right to Environment is a Fundamental Right enumerated under the Constitution of India.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "B",
+          "answer_text": "False"
+        },
+        {
+          "id": 3,
+          "question": "The Environment (Protection) Act, 1986 was enacted post:",
+          "options": {
+            "A": "Taj Trapezium case",
+            "B": "Bhopal Gas leak case",
+            "C": "Oleum Gas leak case",
+            "D": "Bombay Docks explosion"
+          },
+          "answer": "B",
+          "answer_text": "Bhopal Gas leak case"
+        },
+        {
+          "id": 4,
+          "question": "The United Nations Conference on the Human Environment (UNCHE), 1972 was subsequent to Stockholm Declaration.",
+          "options": {
+            "A": "False",
+            "B": "True",
+            "C": "Partially true",
+            "D": "Partially false"
+          },
+          "answer": "A",
+          "answer_text": "False"
+        },
+        {
+          "id": 5,
+          "question": "Noise Pollution is regulated under the Noise Pollution Regulations, 1990.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "B",
+          "answer_text": "False"
+        },
+        {
+          "id": 6,
+          "question": "Chairman and Members of the State Pollution Control Board are nominated by:",
+          "options": {
+            "A": "Central Pollution Control Board",
+            "B": "State Government",
+            "C": "Ministry of Environment, Forest and Climate Change"
+          },
+          "answer": "B",
+          "answer_text": "State Government"
+        },
+        {
+          "id": 7,
+          "question": "The legality of concept of an ex post facto or a retrospective environmental clearance was upheld by Supreme Court in which Judgment?",
+          "options": {
+            "A": "Electrotherm Ltd. v. Patel, (2016) 9 SCC 300",
+            "B": "Lafarge Umiam Mining Pvt. Ltd. v. Union of India, (2011) 7 SCC 338",
+            "C": "Goa Foundation v. Union of India, (2005) 11 SCC 559",
+            "D": "Common Cause v. Union of India, (2017) 9 SCC 499"
+          },
+          "answer": "B",
+          "answer_text": "Lafarge Umiam Mining Pvt. Ltd. v. Union of India, (2011) 7 SCC 338"
+        },
+        {
+          "id": 8,
+          "question": "Which case brought about establishing a ‘Green Bench’ in its respective State High Court for the first time?",
+          "options": {
+            "A": "Vellore Citizens Welfare Forum v. Union of India",
+            "B": "Sachidananda Pandey v. State of West Bengal",
+            "C": "AP Pollution Control Board v. Nayudu",
+            "D": "Delhi Stone Crushing Case"
+          },
+          "answer": "A",
+          "answer_text": "Vellore Citizens Welfare Forum v. Union of India"
+        },
+        {
+          "id": 9,
+          "question": "As per EIA Notification, 2006, the EIA cycle comprises various stages for the prior environmental clearance process. These stages in sequential order are: Screening, Scoping, Public Hearing, Appraisal, Risk Assessment.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "B",
+          "answer_text": "False"
+        },
+        {
+          "id": 10,
+          "question": "All projects or activities included as Category ‘A’ in the EIA Notification, 2006 shall require prior environmental clearance from the Ministry of Environment and Forests (MoEF) on the recommendations of an Expert Appraisal Committee (EAC).",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "A",
+          "answer_text": "True"
+        }
+      ]
+    },
+    {
+      "title": "Week 1",
+      "questions": [
+        {
+          "id": 11,
+          "question": "The principle of Sovereign Right of States over their own resources confirming to their own environmental policies, is encapsulated in which principle of the Stockholm Declaration 1972?",
+          "options": {
+            "A": "Principle 18",
+            "B": "Principle 19",
+            "C": "Principle 20",
+            "D": "Principle 21"
+          },
+          "answer": "D",
+          "answer_text": "Principle 21"
+        },
+        {
+          "id": 12,
+          "question": "The document ‘Our Common Future’ which is famous for providing a definition to the term ‘sustainable development’ was formulated by which of the following commissions?",
+          "options": {
+            "A": "Kofi Annan Commission",
+            "B": "Brundtland Commission",
+            "C": "Warren Robbinson Commission",
+            "D": "Judy Cheng-Hopkins Commission"
+          },
+          "answer": "B",
+          "answer_text": "Brundtland Commission"
+        },
+        {
+          "id": 13,
+          "question": "Which of the following statements is true with respect to the Johannesburg Summit, 2002?",
+          "options": {
+            "A": "It is also called as the World Summit on Sustainable Development",
+            "B": "It laid down a plan of implementation for individual state targets on climate change",
+            "C": "Both of these",
+            "D": "None of these"
+          },
+          "answer": "A",
+          "answer_text": "It is also called as the World Summit on Sustainable Development"
+        },
+        {
+          "id": 14,
+          "question": "Jitendra, an owner of a tannery, has been allowing the discharge of toxic effluents in a nearby stream. The local municipal corporation imposes a penalty on Jitendra to clean up the stream. Which principle underlies the imposition of penalty?",
+          "options": {
+            "A": "Precautionary Principle",
+            "B": "Principle of preventative action",
+            "C": "Polluter Pays Principle",
+            "D": "Principle of good neighborliness"
+          },
+          "answer": "C",
+          "answer_text": "Polluter Pays Principle"
+        },
+        {
+          "id": 15,
+          "question": "Which of the following Latin maxims states that one should use one’s property in a manner that does not harm another?",
+          "options": {
+            "A": "Res Ipsa Loquitor",
+            "B": "Sic Utere Tuo Ut Alienum Non Laedas",
+            "C": "Cuius est solum eius est usque ad coelum et usque ad infernos",
+            "D": "Actus Non-Facit Reum Nisi Mens Sit Rea"
+          },
+          "answer": "B",
+          "answer_text": "Sic Utere Tuo Ut Alienum Non Laedas"
+        },
+        {
+          "id": 16,
+          "question": "The United Nations Environment Programme (UNEP) was an outcome of which of the following conventions?",
+          "options": {
+            "A": "The United Nations Conference on the Human Environment, 1972",
+            "B": "United Nations Framework Convention on Climate Change (UNFCCC), 1992",
+            "C": "The Ramsar Convention on Wetlands, 1971",
+            "D": "Convention on Biological Diversity, 1992"
+          },
+          "answer": "A",
+          "answer_text": "The United Nations Conference on the Human Environment, 1972"
+        },
+        {
+          "id": 17,
+          "question": "What are the key elements of the principle of precaution as adopted in the Rio Declaration?",
+          "options": {
+            "A": "To anticipate and attack the source of pollution",
+            "B": "Lack of scientific uncertainty should not be used as a reason for postponing measures to prevent environmental degradation",
+            "C": "Burden of proof lies on the proponent of the project",
+            "D": "All of these"
+          },
+          "answer": "B",
+          "answer_text": "Lack of scientific uncertainty should not be used as a reason for postponing measures to prevent environmental degradation",
+          "note": "Accepted answer shown in source"
+        },
+        {
+          "id": 18,
+          "question": "The Bio-centric approach of environmental management claims that the human race is part and parcel of the rest of the host of life forms on earth.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "A",
+          "answer_text": "True"
+        },
+        {
+          "id": 19,
+          "question": "The philosophy of ‘sustainable development’ states that every human-activity should be a kind of zero-sum game of not inflicting harm to the environment’.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "A",
+          "answer_text": "True"
+        },
+        {
+          "id": 20,
+          "question": "The Ecological modernization theory propounds that ‘natural resources when left to the discretion of the owners of such resources, will be put to their best use’.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "B",
+          "answer_text": "False"
+        },
+        {
+          "id": 21,
+          "question": "The Montreal Protocol and Vienna Convention emphasised on:",
+          "options": {
+            "A": "Protection of wildlife",
+            "B": "Protection of natural resources from pollution",
+            "C": "Protection of Ozone layer",
+            "D": "Protection of the rights of indigenous people"
+          },
+          "answer": "C",
+          "answer_text": "Protection of Ozone layer"
+        },
+        {
+          "id": 22,
+          "question": "Justice K.S. Radhakrishnan was the pioneer behind:",
+          "options": {
+            "A": "Anthropocentric principle of Environmental protection",
+            "B": "Eco-centric principle of Environmental protection",
+            "C": "Sustainable development",
+            "D": "Inter-generational equity principle"
+          },
+          "answer": "B",
+          "answer_text": "Eco-centric principle of Environmental protection"
+        },
+        {
+          "id": 23,
+          "question": "sic utere tuo ut alienum non laedas rule is associated with which of the following:",
+          "options": {
+            "A": "No harm rule",
+            "B": "Prevention Principle",
+            "C": "Principle 21 of Stockholm Declaration",
+            "D": "All of the above"
+          },
+          "answer": "D",
+          "answer_text": "All of the above"
+        },
+        {
+          "id": 24,
+          "question": "The Rio declaration on Environment and Development of 1992 is a formally binding diplomatic conference declaration.",
+          "options": {
+            "A": "True",
+            "B": "False",
+            "C": "Partially true",
+            "D": "Partially false"
+          },
+          "answer": "B",
+          "answer_text": "False"
+        },
+        {
+          "id": 25,
+          "question": "National Environment Policy 2006 stated “Human Beings are at the Centre of Sustainable Development Concerns”:",
+          "options": {
+            "A": "False",
+            "B": "True",
+            "C": "Partially true",
+            "D": "Partially false"
+          },
+          "answer": "B",
+          "answer_text": "True"
+        }
+      ]
+    },
+    {
+      "title": "Week 2",
+      "questions": [
+        {
+          "id": 26,
+          "question": "What does the term ‘in loco parentis’ mean in the context of management of natural resources?",
+          "options": {
+            "A": "The State is a steward of natural resources for the benefit of the public.",
+            "B": "The State can alienate natural resources for developmental purposes.",
+            "C": "The State can avail natural resources from private individuals for the welfare of the public.",
+            "D": "The State cannot part with natural resources in light of public interest."
+          },
+          "answer": "A",
+          "answer_text": "The State is a steward of natural resources for the benefit of the public."
+        },
+        {
+          "id": 27,
+          "question": "Which of the following concepts advocates that the protection and conservation of the environment is not the sole responsibility or monopoly of the state?",
+          "options": {
+            "A": "Egalitarian Distribution",
+            "B": "Communitarian Management",
+            "C": "Decentralized Governance",
+            "D": "Privatization of Natural Resources"
+          },
+          "answer": "B",
+          "answer_text": "Communitarian Management"
+        },
+        {
+          "id": 28,
+          "question": "The Stockholm Conference, 1972 is synonymously known as ____________.",
+          "options": {
+            "A": "The United Nations Conference on Sustainable Development",
+            "B": "The United Nations Conference on Human Environment",
+            "C": "The United Nations Conference on Environmental Protection",
+            "D": "The United Nations Conference on Climate Change"
+          },
+          "answer": "B",
+          "answer_text": "The United Nations Conference on Human Environment"
+        },
+        {
+          "id": 29,
+          "question": "Which of the following amendments to the Indian Constitution invoked an ‘environmental awakening’ in the whole framework of the constitution?",
+          "options": {
+            "A": "42nd Amendment",
+            "B": "44th Amendment",
+            "C": "73rd Amendment",
+            "D": "74th Amendment"
+          },
+          "answer": "A",
+          "answer_text": "42nd Amendment"
+        },
+        {
+          "id": 30,
+          "question": "Which of the following Constitutional provision promotes autonomy in administration of scheduled areas and scheduled tribes in the north-eastern states of India?",
+          "options": {
+            "A": "Article 245",
+            "B": "Article 245A",
+            "C": "Article 244",
+            "D": "Article 244A"
+          },
+          "answer": "C",
+          "answer_text": "Article 244"
+        },
+        {
+          "id": 31,
+          "question": "Which of the following cases talks about the responsibility of the local municipalities to ensure a clean and healthy environment for its citizenry?",
+          "options": {
+            "A": "D. Gopalan v. B. Shanthi Alias Vennira Adai",
+            "B": "Dr. B. L. Wadehra v. Union of India",
+            "C": "Bangalore Medical Trust v. B.S. Muddappa",
+            "D": "Ratlam Municipal Corporation v. Vardichand"
+          },
+          "answer": "D",
+          "answer_text": "Ratlam Municipal Corporation v. Vardichand"
+        },
+        {
+          "id": 32,
+          "question": "Which of the following cases settled the matter of whether the principle of “generalis specialibus non derogant” applied to S.133 of the CrPC?",
+          "options": {
+            "A": "Nagarjuna Paper Mills Ltd v. Subdivisional Magistrate",
+            "B": "Tata Tea Ltd v. State of Kerala",
+            "C": "Krishna Panicker v. Appukuttan Nair",
+            "D": "B Gopala v. Karnataka State Pollution Control Board"
+          },
+          "answer": "D",
+          "answer_text": "B Gopala v. Karnataka State Pollution Control Board"
+        },
+        {
+          "id": 33,
+          "question": "In M. C. Mehta v. Union of India, it was held that “every person who is in charge of and responsible to the business of the company, including the manager, becomes liable for pollution caused by that business activity.”",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "B",
+          "answer_text": "False"
+        },
+        {
+          "id": 34,
+          "question": "The United Nations Environment Programme (UNEP) enumerates a list of binding obligations with which every nation is bound to abide.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "B",
+          "answer_text": "False"
+        },
+        {
+          "id": 35,
+          "question": "In Tata Tea Ltd v. State of Kerala, it was held that the provisions of Water Act being special enactment, override S.133 of the CrPC.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "A",
+          "answer_text": "True"
+        },
+        {
+          "id": 36,
+          "question": "The Air (Prevention and Control of Pollution) Act was enacted in the year:",
+          "options": {
+            "A": "1981",
+            "B": "1996",
+            "C": "2000",
+            "D": "1974"
+          },
+          "answer": "A",
+          "answer_text": "1981"
+        },
+        {
+          "id": 37,
+          "question": "Noise pollution has been inserted as pollution in the Air Act in:",
+          "options": {
+            "A": "1981",
+            "B": "1987",
+            "C": "1982",
+            "D": "2000"
+          },
+          "answer": "B",
+          "answer_text": "1987"
+        },
+        {
+          "id": 38,
+          "question": "The Environmental (Protection) Act was enacted in the year:",
+          "options": {
+            "A": "1986",
+            "B": "1992",
+            "C": "1984",
+            "D": "1974"
+          },
+          "answer": "A",
+          "answer_text": "1986"
+        },
+        {
+          "id": 39,
+          "question": "The functions of State Board are given under:",
+          "options": {
+            "A": "Section 16",
+            "B": "Section 17",
+            "C": "Section 21",
+            "D": "Section 45"
+          },
+          "answer": "B",
+          "answer_text": "Section 17"
+        },
+        {
+          "id": 40,
+          "question": "The Water (Prevention and Control of Pollution) Act was enacted in the year:",
+          "options": {
+            "A": "1986",
+            "B": "1974",
+            "C": "1994",
+            "D": "1975"
+          },
+          "answer": "B",
+          "answer_text": "1974"
+        }
+      ]
+    },
+    {
+      "title": "Week 3",
+      "questions": [
+        {
+          "id": 41,
+          "question": "Based on the functions that the State Pollution Control Boards perform; they can be categorized as which type of bodies?",
+          "options": {
+            "A": "Judicial Bodies",
+            "B": "Quasi-judicial bodies",
+            "C": "Administrative Bodies",
+            "D": "Legislative bodies"
+          },
+          "answer": "B",
+          "answer_text": "Quasi-judicial bodies"
+        },
+        {
+          "id": 42,
+          "question": "Which of the following authorities has the power to declare any area as an “Air Pollution Control Area” under the Air Act, 1981?",
+          "options": {
+            "A": "Central Government",
+            "B": "State Government",
+            "C": "State Pollution Control Board",
+            "D": "Central Pollution Control Board"
+          },
+          "answer": "B",
+          "answer_text": "State Government"
+        },
+        {
+          "id": 43,
+          "question": "Which of the following roles does the Central Pollution Control Board play under the Water (Prevention and Control of Pollution) Act, 1974? I. Advisor II. Trainer III. Regulator IV. Expert",
+          "options": {
+            "A": "I, II and IV",
+            "B": "I, III, and IV",
+            "C": "I, II, III, and IV",
+            "D": "I and III"
+          },
+          "answer": "C",
+          "answer_text": "I, II, III, and IV"
+        },
+        {
+          "id": 44,
+          "question": "In which of the following cases does the CPCB assume the powers of the SPCB?",
+          "options": {
+            "A": "Matter of Public Interest",
+            "B": "When SPCB fails to comply with the directions issued by the CPCB",
+            "C": "Matters of Imminent necessity",
+            "D": "All of the Above"
+          },
+          "answer": "B",
+          "answer_text": "When SPCB fails to comply with the directions issued by the CPCB"
+        },
+        {
+          "id": 45,
+          "question": "What is the tenure of the Chairman of SPCB?",
+          "options": {
+            "A": "3 Years",
+            "B": "4 years",
+            "C": "5 years",
+            "D": "6 Years"
+          },
+          "answer": "A",
+          "answer_text": "3 Years"
+        },
+        {
+          "id": 46,
+          "question": "In which of the following cases was it held that the rules and notifications issued under the Environment Protection Act have the same status as what has been prescribed under the Act?",
+          "options": {
+            "A": "Vellore Citizens Welfare Forum v. Union of India",
+            "B": "S Jagannath v. Union of India",
+            "C": "Rural Litigation and Entitlement Kendra, Dehradun v. State of Uttar Pradesh",
+            "D": "Indian Council for Enviro-Legal Action v. Union of India"
+          },
+          "answer": "B",
+          "answer_text": "S Jagannath v. Union of India"
+        },
+        {
+          "id": 47,
+          "question": "The penalty prescribed under the Environment Protection Act, 1986 applies to contravention of:",
+          "options": {
+            "A": "The provisions of the Act",
+            "B": "The rules made under the Act",
+            "C": "The orders and directions issued under the Act",
+            "D": "All of these"
+          },
+          "answer": "D",
+          "answer_text": "All of these"
+        },
+        {
+          "id": 48,
+          "question": "Insolvency is a ground of disqualification of a member of the Pollution Control Board.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "A",
+          "answer_text": "True"
+        },
+        {
+          "id": 49,
+          "question": "The Central Pollution Control Board is bound by the directions issued by the Central Government.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "A",
+          "answer_text": "True"
+        },
+        {
+          "id": 50,
+          "question": "Vacancy in the membership of a State Pollution Control Board can vitiate the legality of the proceedings of the board.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "B",
+          "answer_text": "False"
+        },
+        {
+          "id": 51,
+          "question": "The Environment Protection Act 1986 was enacted to implement the decisions of:",
+          "options": {
+            "A": "Stockholm Conference",
+            "B": "Rio Declaration",
+            "C": "Montreal Protocol",
+            "D": "Paris Convention"
+          },
+          "answer": "A",
+          "answer_text": "Stockholm Conference"
+        },
+        {
+          "id": 52,
+          "question": "The Environment Protection Act defines the term ‘Environment Pollutant’ as:",
+          "options": {
+            "A": "Any solid or gaseous substance present in such concentration as may be, or tend to be, injurious to environment.",
+            "B": "Any solid, liquid or gaseous substance present in such concentration as may be, or tend to be, injurious to environment and human health.",
+            "C": "Any liquid or gaseous substance present in such concentration as may be, or tend to be, injurious to environment, humans and animals.",
+            "D": "Any solid, liquid or gaseous substance present in such concentration as may be, or tend to be, injurious to environment."
+          },
+          "answer": "D",
+          "answer_text": "Any solid, liquid or gaseous substance present in such concentration as may be, or tend to be, injurious to environment."
+        },
+        {
+          "id": 53,
+          "question": "Consider the following statements and answer the question: i) The Taj Trapezium Case was decided in the year 1986. ii) In the Taj Trapezium Case, both coal and gas connected industries were relocated. iii) The Court relied on the ‘Polluter Pays Principle’ and ‘Precautionary Principle’ in deciding the case. iv) The Green Belt was a result of the Taj Trapezium case. Which of the above statements is/are true?",
+          "options": {
+            "A": "Only ii)",
+            "B": "Both i) and iii)",
+            "C": "Both iii) and iv)",
+            "D": "Both ii) and iv)"
+          },
+          "answer": "C",
+          "answer_text": "Both iii) and iv)"
+        },
+        {
+          "id": 54,
+          "question": "Reports of Government analysts under the Environment Protection Act do not have any evidentiary value.",
+          "options": {
+            "A": "False",
+            "B": "True"
+          },
+          "answer": "A",
+          "answer_text": "False"
+        },
+        {
+          "id": 55,
+          "question": "Section 8 of the Act provides for Procedural Safeguards of ‘persons dealing with Hazardous Waste’.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "A",
+          "answer_text": "True"
+        },
+        {
+          "id": 56,
+          "question": "Authorities under S.3 are not public servants but taken on contract basis.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "B",
+          "answer_text": "False"
+        },
+        {
+          "id": 57,
+          "question": "Jurisdiction of Civil Courts is barred for any offence committed under the Environment Protection Act.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "A",
+          "answer_text": "True"
+        }
+      ]
+    },
+    {
+      "title": "Week 4 - Environmental Impact Assessment (EIA)",
+      "questions": [
+        {
+          "id": 58,
+          "question": "The concept of ‘Environment Impact Assessment’ is entrenched in which of the following principles of environmental governance?",
+          "options": {
+            "A": "Precautionary principle",
+            "B": "Principle of sustainable development",
+            "C": "Both of these",
+            "D": "None of these"
+          },
+          "answer": "C",
+          "answer_text": "Both of these"
+        },
+        {
+          "id": 59,
+          "question": "Who is responsible for constituting the State Environment Impact Assessment Authority?",
+          "options": {
+            "A": "The State Government on consultation with the State Pollution Control Board",
+            "B": "The Central Government on consultation with the concerned State Government",
+            "C": "The Central Government on consultation with the State Pollution Control Board",
+            "D": "The Central Government on consultation with the Central Pollution Control Board"
+          },
+          "answer": "B",
+          "answer_text": "The Central Government on consultation with the concerned State Government"
+        },
+        {
+          "id": 60,
+          "question": "Which of the following countries was the first to enact a law that laid down a structured framework for Environment Impact Assessment?",
+          "options": {
+            "A": "Malaysia",
+            "B": "Brazil",
+            "C": "United States of America",
+            "D": "India"
+          },
+          "answer": "C",
+          "answer_text": "United States of America"
+        },
+        {
+          "id": 61,
+          "question": "Through which of the following amendments was an exemption under the EIA Notification, 1994 carved out for all industries whose investments were less than INR 100 crores?",
+          "options": {
+            "A": "Amendment Act of 1997",
+            "B": "Amendment Act of 2000",
+            "C": "Amendment Act of 2002",
+            "D": "Amendment Act of 2006"
+          },
+          "answer": "C",
+          "answer_text": "Amendment Act of 2002"
+        },
+        {
+          "id": 62,
+          "question": "Within how many days should the regulatory authority convey its decision to grant or reject Prior Environmental Clearance to the project proponent under the EIA Notification, 2006?",
+          "options": {
+            "A": "Within 45 days of the applicant making the application",
+            "B": "Within 45 days from the date of receipt of recommendations by the Expert Appraisal Committees",
+            "C": "Within 30 days of the applicant making the application",
+            "D": "Within 30 days from the date of receipt of recommendations by the Expert Appraisal Committees"
+          },
+          "answer": "B",
+          "answer_text": "Within 45 days from the date of receipt of recommendations by the Expert Appraisal Committees"
+        },
+        {
+          "id": 63,
+          "question": "Which environmental summit acted as a catalyst for the Environmental Impact Assessment Notification, 1996?",
+          "options": {
+            "A": "United Nations Conference on Environment and Development, Rio de Janeiro",
+            "B": "World Summit on Sustainable Development, Johannesburg",
+            "C": "United Nations Conference on the Human Environment, Stockholm",
+            "D": "None of these"
+          },
+          "answer": "A",
+          "answer_text": "United Nations Conference on Environment and Development, Rio de Janeiro"
+        },
+        {
+          "id": 64,
+          "question": "The Expert Appraisal Committee and the State Expert Appraisal Committee have to be reconstituted every ______ years.",
+          "options": {
+            "A": "2 years",
+            "B": "3 years",
+            "C": "4 years",
+            "D": "6 years"
+          },
+          "answer": "B",
+          "answer_text": "3 years"
+        },
+        {
+          "id": 65,
+          "question": "The process of ‘screening’ in conducting a comprehensive environmental impact assessment of a development project forms the democratic component of environmental impact assessment.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "B",
+          "answer_text": "False"
+        },
+        {
+          "id": 66,
+          "question": "The regulatory authority is absolutely bound to accept the recommendations given by the Expert Appraisal Committee and need not give reasons for rejecting the recommendations.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "B",
+          "answer_text": "False"
+        },
+        {
+          "id": 67,
+          "question": "If the regulatory authority fails to convey its decision regarding the grant of prior environmental clearance within the stipulated time period, the proposed project is deemed to have been approved.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "A",
+          "answer_text": "True"
+        },
+        {
+          "id": 68,
+          "question": "The World Bank favours what type of measures regarding environmental assessments through its policies on the same?",
+          "options": {
+            "A": "Preventive measures",
+            "B": "Compensatory measures",
+            "C": "Mitigatory measures",
+            "D": "All of the above"
+          },
+          "answer": "A",
+          "answer_text": "Preventive measures"
+        },
+        {
+          "id": 69,
+          "question": "The EIA Notification was issued by the Ministry of Environment and Forests in exercise of its powers under which provisions of the Environment Protection Act, 1986?",
+          "options": {
+            "A": "Section 3(1) and Section 3(2)(v)",
+            "B": "Section 3(1)",
+            "C": "Section 3(2)",
+            "D": "Section 3(2)(i) and Section 3(3)"
+          },
+          "answer": "A",
+          "answer_text": "Section 3(1) and Section 3(2)(v)"
+        },
+        {
+          "id": 70,
+          "question": "The EIA report development is not the last step in terms of conducting the impact assessment done by the project team and the involved consultants.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "B",
+          "answer_text": "False"
+        }
+      ]
+    },
+    {
+      "title": "Week 5 - Climate Change",
+      "questions": [
+        {
+          "id": 71,
+          "question": "Which of the following pairs of international organizations are credited for the setting up of the Intergovernmental Panel on Climate Change?",
+          "options": {
+            "A": "World Bank and United Nations Environment Programme",
+            "B": "World Bank and World Meteorological Organization",
+            "C": "World Meteorological Organization and International Monetary Fund",
+            "D": "World Meteorological Organization and United Nations Environment Programme"
+          },
+          "answer": "D",
+          "answer_text": "World Meteorological Organization and United Nations Environment Programme"
+        },
+        {
+          "id": 72,
+          "question": "Which of the following obligations were placed on Annex 1 countries under the UNFCCC? (i) Mitiation (ii) Transfer of Techonolgy (iii) Joint Implementation of Programmes (iv) Financial Assistance",
+          "options": {
+            "A": "(i), (ii), (iii) and (iv)",
+            "B": "(i), (ii) and (iii)",
+            "C": "(i), (ii) and (iv)",
+            "D": "(ii), (iii) and (iv)"
+          },
+          "answer": "A",
+          "answer_text": "(i), (ii), (iii) and (iv)"
+        },
+        {
+          "id": 73,
+          "question": "The objective of which of the following is to combat dangerous human interference with the climate system?",
+          "options": {
+            "A": "Vienna Convention for Protection of Ozone Layer, 1985",
+            "B": "Montreal Protocol, 1987",
+            "C": "Both of these",
+            "D": "None of these"
+          },
+          "answer": "C",
+          "answer_text": "Both of these"
+        },
+        {
+          "id": 74,
+          "question": "Which of the following statements is not true with respect to the United Nations Framework Convention on Climate Change?",
+          "options": {
+            "A": "It is a framework law.",
+            "B": "India is a party to the convention.",
+            "C": "It was brought into force in the year 1972.",
+            "D": "Its objective is to combat dangerous human interference with the climate system."
+          },
+          "answer": "C",
+          "answer_text": "It was brought into force in the year 1972."
+        },
+        {
+          "id": 75,
+          "question": "Which of the following statements is not true with respect to the National Action Plan on Climate Change, 2009?",
+          "options": {
+            "A": "It created binding targets for all state governments to achieve.",
+            "B": "It laid down a model template on climate change for states to emulate.",
+            "C": "It incorporated a strategic plan for climate action and climate justice in India.",
+            "D": "It provided for capacity enhancement in strategic sectors to combat climate change."
+          },
+          "answer": "A",
+          "answer_text": "It created binding targets for all state governments to achieve."
+        },
+        {
+          "id": 76,
+          "question": "Which treaty replaced the Kyoto Protocol?",
+          "options": {
+            "A": "The Paris Agreement",
+            "B": "The Nagoya Protocol",
+            "C": "The Montreal Protocol",
+            "D": "The Cartagena Protocol"
+          },
+          "answer": "A",
+          "answer_text": "The Paris Agreement"
+        },
+        {
+          "id": 77,
+          "question": "Which of the following are initiatives taken by India in dealing with Climate Change?",
+          "options": {
+            "A": "Energy Conservation Act, 2001",
+            "B": "Conservation Building Code, 2007",
+            "C": "Fuel Policy 2003",
+            "D": "All of these"
+          },
+          "answer": "D",
+          "answer_text": "All of these"
+        },
+        {
+          "id": 78,
+          "question": "Parties who have ratified the Paris Agreement have the right to withdraw from the Agreement latest by 2020.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "A",
+          "answer_text": "True"
+        },
+        {
+          "id": 79,
+          "question": "The Principle of State Sovereignty best describes the United Nations Framework Convention on Climate Change.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "B",
+          "answer_text": "False"
+        },
+        {
+          "id": 80,
+          "question": "Carbon Sequestration was implemented under the Kyoto Protocol.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "A",
+          "answer_text": "True"
+        },
+        {
+          "id": 81,
+          "question": "Kyoto Protocol operationalizes the United Nations Framework Convention on Climate Change.",
+          "options": {
+            "A": "True",
+            "B": "False",
+            "C": "Partially True",
+            "D": "Partially False"
+          },
+          "answer": "A",
+          "answer_text": "True"
+        },
+        {
+          "id": 82,
+          "question": "Which of the following is not a principle of UNFCC?",
+          "options": {
+            "A": "The parties should promote sustainable development",
+            "B": "The parties should take precautionary principles",
+            "C": "The parties should impose sanctions on non-performing parties",
+            "D": "The parties should cooperate to promote supportive and open economic system"
+          },
+          "answer": "C",
+          "answer_text": "The parties should impose sanctions on non-performing parties"
+        },
+        {
+          "id": 83,
+          "question": "The parties’ commitment to submit Nationally Determined Contributions is mandated in:",
+          "options": {
+            "A": "Kyoto Protocol",
+            "B": "UNFCC",
+            "C": "Paris Agreement",
+            "D": "Doha Agreement"
+          },
+          "answer": "C",
+          "answer_text": "Paris Agreement"
+        },
+        {
+          "id": 84,
+          "question": "Currently, the total number of parties to Kyoto Protocol include:",
+          "options": {
+            "A": "162",
+            "B": "172",
+            "C": "182",
+            "D": "192"
+          },
+          "answer": "D",
+          "answer_text": "192"
+        },
+        {
+          "id": 85,
+          "question": "In the Paris Agreement, the countries agreed to:",
+          "options": {
+            "A": "Limit global temperatures to below 2 degree Celsius",
+            "B": "Limit global temperatures to 2 degree Celsius",
+            "C": "Limit the global temperatures below 1 degree Celsius",
+            "D": "Limit the global temperatures proportional to their respective GHG emissions."
+          },
+          "answer": "A",
+          "answer_text": "Limit global temperatures to below 2 degree Celsius"
+        },
+        {
+          "id": 86,
+          "question": "The developed countries should lead the way in combating climate changes and its adverse impacts is provided under:",
+          "options": {
+            "A": "Article 7 of UNFCC",
+            "B": "Article 3 of UNFCC",
+            "C": "Not provided in UNFCC",
+            "D": "None of the above"
+          },
+          "answer": "B",
+          "answer_text": "Article 3 of UNFCC"
+        },
+        {
+          "id": 87,
+          "question": "The Doha amendment to Kyoto Protocol was entered into force on 8 December 2012.",
+          "options": {
+            "A": "True",
+            "B": "False",
+            "C": "Partially True",
+            "D": "Partially False"
+          },
+          "answer": "B",
+          "answer_text": "False"
+        },
+        {
+          "id": 88,
+          "question": "COP21 is also known as:",
+          "options": {
+            "A": "Cancun Climate Change Conference",
+            "B": "Kyoto Protocol",
+            "C": "Doha Amendment",
+            "D": "Paris Climate Conference"
+          },
+          "answer": "D",
+          "answer_text": "Paris Climate Conference"
+        },
+        {
+          "id": 89,
+          "question": "The Kyoto Protocol emission reduction targets for 36 industrialized countries and the European Union provided in Annex B is:",
+          "options": {
+            "A": "Binding",
+            "B": "Non-binding",
+            "C": "Optional",
+            "D": "None of the above"
+          },
+          "answer": "A",
+          "answer_text": "Binding"
+        },
+        {
+          "id": 90,
+          "question": "Fill in the blanks: India is listed as a ______ country to UNFCC.",
+          "options": {
+            "A": "Annexe I",
+            "B": "Non-annexe I",
+            "C": "Annexe II",
+            "D": "Non- of the above"
+          },
+          "answer": "B",
+          "answer_text": "Non-annexe I"
+        }
+      ]
+    },
+    {
+      "title": "Week 6 - Biodiversity, Forests and Wildlife",
+      "questions": [
+        {
+          "id": 91,
+          "question": "Which of the following is not an objective of the Convention on Biological Diversity, 1992?",
+          "options": {
+            "A": "Conserving biodiversity as a common concern of mankind",
+            "B": "Preventing the loss and reduction of biological diversity at source",
+            "C": "Promoting uninhibited access to bio-resources",
+            "D": "Recognizing the importance of ex-situ measures in conservation of biological resources"
+          },
+          "answer": "C",
+          "answer_text": "Promoting uninhibited access to bio-resources"
+        },
+        {
+          "id": 92,
+          "question": "According to which of the following provisions of the Convention on Biological Diversity, 1992 are states obliged to ensure the safe handling, use and transfer of living modified organisms?",
+          "options": {
+            "A": "Article 15",
+            "B": "Article 19",
+            "C": "Article 23",
+            "D": "Article 24"
+          },
+          "answer": "B",
+          "answer_text": "Article 19"
+        },
+        {
+          "id": 93,
+          "question": "Which of the following powers does the National Biodiversity Authority enjoy under the Biological Diversity Act, 2002?",
+          "options": {
+            "A": "Development of national strategies of conservation",
+            "B": "Notifying threatened species",
+            "C": "Notifying areas as biodiversity heritage sites",
+            "D": "All of these"
+          },
+          "answer": "D",
+          "answer_text": "All of these"
+        },
+        {
+          "id": 94,
+          "question": "In which of the following cities was the Bio-safety Protocol of 2000 concluded?",
+          "options": {
+            "A": "Stockholm",
+            "B": "Cartagena",
+            "C": "Nagoya",
+            "D": "Kyoto"
+          },
+          "answer": "B",
+          "answer_text": "Cartagena"
+        },
+        {
+          "id": 95,
+          "question": "Which of the following principle(s) does the Convention on Biological Diversity, 1992 incorporate?",
+          "options": {
+            "A": "In situ and ex situ conservation",
+            "B": "Precautionary action",
+            "C": "Equitable safeguards",
+            "D": "All of these"
+          },
+          "answer": "D",
+          "answer_text": "All of these"
+        },
+        {
+          "id": 96,
+          "question": "Which MEA encapsulates all the aspects of conservation, protection, sustainable use, safety, and equity in commerce concerning biodiversity?",
+          "options": {
+            "A": "World Conservation Strategy, 1980",
+            "B": "CITES, 1973",
+            "C": "Heritage Convention",
+            "D": "Convention on Biological Diversity"
+          },
+          "answer": "D",
+          "answer_text": "Convention on Biological Diversity"
+        },
+        {
+          "id": 97,
+          "question": "The Convention on Biological Diversity provides for:",
+          "options": {
+            "A": "Sovereign Rights and Responsibilities",
+            "B": "Protection of Traditional Knowledge and communitarian practices",
+            "C": "Cooperation among nations",
+            "D": "All of these"
+          },
+          "answer": "D",
+          "answer_text": "All of these"
+        },
+        {
+          "id": 98,
+          "question": "Ex-situ conservation is a set of conservation techniques involving the designation, management, and monitoring of biodiversity in the same area where it is encountered.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "B",
+          "answer_text": "False"
+        },
+        {
+          "id": 99,
+          "question": "The sharing of benefits envisaged under the Nagoya Protocol is limited only to monetary benefits.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "B",
+          "answer_text": "False"
+        },
+        {
+          "id": 100,
+          "question": "Under the Biological Diversity Act, 2002, the National Biodiversity Authority is bound by the directions of the Central Government.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "A",
+          "answer_text": "True"
+        },
+        {
+          "id": 101,
+          "question": "Which one of the following options is not one of India’s national targets under the Convention on Biological Diversity, 1992?",
+          "options": {
+            "A": "By 2020, a significant proportion of the country’s population, especially the youth, is aware of the values of biodiversity and the steps they can take to conserve and use it sustainably.",
+            "B": "By 2020, invasive alien species and pathways are identified and strategies to manage them developed so that populations of prioritized invasive alien species are managed.",
+            "C": "By 2020, an effective, participatory and updated national biodiversity action plan is made operational at different levels of governance.",
+            "D": "By 2020, the forest cover of the country shall be increased by at least 2%."
+          },
+          "answer": "D",
+          "answer_text": "By 2020, the forest cover of the country shall be increased by at least 2%."
+        },
+        {
+          "id": 102,
+          "question": "The recommendations of the National Biodiversity are binding on the State and Central Governments. True or false?",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "B",
+          "answer_text": "False"
+        },
+        {
+          "id": 103,
+          "question": "The Central Government has the power to reserve any land as forest land under the Indian Forest Act, 1927. True or False?",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "B",
+          "answer_text": "False"
+        },
+        {
+          "id": 104,
+          "question": "Any villager living next to the forest and who is an employee of the Government has a duty to take steps to extinguish forest fires of which he has knowledge or information. True or False?",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "A",
+          "answer_text": "True"
+        },
+        {
+          "id": 105,
+          "question": "The Gujarat Government decides to lease out reserved forest land to Adani Power Ltd. for setting up a new power plant. Adani Power Ltd. is a private company which is not owned, managed or controlled by any Government. Decide whether the Government is competent to provide such a lease.",
+          "options": {
+            "A": "No, not without de-reserving the concerned area from the forest land.",
+            "B": "No, the State Government is not competent to lease out reserved forest land.",
+            "C": "Yes, the State Government can provide such a lease with the prior consent of the Central Government.",
+            "D": "Only the Central Government can provide such a lease."
+          },
+          "answer": "C",
+          "answer_text": "Yes, the State Government can provide such a lease with the prior consent of the Central Government."
+        },
+        {
+          "id": 106,
+          "question": "The term ‘forest’ has been defined under:",
+          "options": {
+            "A": "Indian Forest Act, 1927",
+            "B": "Forest Conservation Act, 1980",
+            "C": "Both of the above",
+            "D": "None of the above"
+          },
+          "answer": "D",
+          "answer_text": "None of the above"
+        },
+        {
+          "id": 107,
+          "question": "Which of the following doctrines was applied by the Supreme Court in the case of TN Godavarman vs. Union of India?",
+          "options": {
+            "A": "Doctrine of absolute liability",
+            "B": "Doctrine of continuing mandamus",
+            "C": "Doctrine of public trust",
+            "D": "Both B and C"
+          },
+          "answer": "D",
+          "answer_text": "Both B and C"
+        },
+        {
+          "id": 108,
+          "question": "The Chief Wildlife Warden has the power to permit the hunting of any wild animal for:",
+          "options": {
+            "A": "Scientific management",
+            "B": "Collecting of specimens for recognized zoos",
+            "C": "Scientific research",
+            "D": "All of the above"
+          },
+          "answer": "D",
+          "answer_text": "All of the above"
+        },
+        {
+          "id": 109,
+          "question": "More than a thousand interlocutory applications have been filed before the Supreme Court in TN Godavarman vs. Union of India covering a spectrum of issues concerning forest protection, such as mining, tree-felling, management of Protected Areas and forest encroachment. True or False?",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "A",
+          "answer_text": "True"
+        },
+        {
+          "id": 110,
+          "question": "Which of the following was not a direction passed by the Supreme Court in the TN Godavarman vs. Union of India case?",
+          "options": {
+            "A": "Creation of a fund to be used for afforestation",
+            "B": "Prohibition on fishing and aquaculture in forest areas",
+            "C": "Forest Conservation Act, 1980 shall apply to all thickly wooded areas",
+            "D": "Prohibition on marble mining in the Aravallis"
+          },
+          "answer": "B",
+          "answer_text": "Prohibition on fishing and aquaculture in forest areas"
+        },
+        {
+          "id": 111,
+          "question": "The compensatory afforestation fund is a fund set up:",
+          "options": {
+            "A": "Under Article 266 of the Constitution",
+            "B": "Under Article 283 of the Constitution",
+            "C": "In accordance with the orders of the Supreme Court of India",
+            "D": "None of the above"
+          },
+          "answer": "C",
+          "answer_text": "In accordance with the orders of the Supreme Court of India"
+        },
+        {
+          "id": 112,
+          "question": "Setting up of snares for protecting farmlands will be a punishable offence if it harms any animal under the Wildlife Protection Act. True or False?",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "A",
+          "answer_text": "True"
+        },
+        {
+          "id": 113,
+          "question": "The national targets under the Convention on Biological Diversity have to be developed in accordance with the Aichi Targets. True or False?",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "A",
+          "answer_text": "True"
+        },
+        {
+          "id": 114,
+          "question": "Recovery of Net Present Value of diverted forest is in addition to the afforestation activities to be undertaken under the Forest Conservation Act, 1980. True or False?",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "A",
+          "answer_text": "True"
+        },
+        {
+          "id": 115,
+          "question": "90% of the amount collected in the National Fund is diverted to the different state funds under the Compensatory Afforestation Fund Act, 2016. True or False?",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "A",
+          "answer_text": "True"
+        }
+      ]
+    },
+    {
+      "title": "Week 7 - Indian Forest Policy and Wildlife Protection",
+      "questions": [
+        {
+          "id": 116,
+          "question": "Which of the following statements is true with respect to the Indian Forest Policy, 1988? I. It incorporated a state-centric approach to forest management II. It propounded for communitarian system of forest management III. It recognized the inclusion of traditional and native wisdom to forest conservation",
+          "options": {
+            "A": "I and II",
+            "B": "II and III",
+            "C": "I, II, and III",
+            "D": "I and III"
+          },
+          "answer": "D",
+          "answer_text": "I and III"
+        },
+        {
+          "id": 117,
+          "question": "Which of the following cases is well-known as the ‘forest conservation’ case in India?",
+          "options": {
+            "A": "I C Golaknath v. State of Punjab",
+            "B": "T N Godavarman Thirumalpad v. Union of India",
+            "C": "Keshavanand Bharti v. State of Kerala",
+            "D": "None of these"
+          },
+          "answer": "B",
+          "answer_text": "T N Godavarman Thirumalpad v. Union of India"
+        },
+        {
+          "id": 118,
+          "question": "The Central Government has the power to declare which of the following categories of land as reserved forests? (i) Forest land which is the property of the government (ii) Waste land which is the property of the government (iii) Private forest land (iv) Any part of forest produce which is the property of the government",
+          "options": {
+            "A": "(i), (ii), (iii) and (iv)",
+            "B": "(i), (ii) and (iii)",
+            "C": "(i), (ii) and (iv)",
+            "D": "(ii), (iii), (iv)"
+          },
+          "answer": "C",
+          "answer_text": "(i), (ii) and (iv)"
+        },
+        {
+          "id": 119,
+          "question": "Which of the following statements is true with respect to the Indian Forest Act, 1927?",
+          "options": {
+            "A": "Rights and liabilities under the Act do not continue to be in force after the Constitution coming into force.",
+            "B": "Rights and liabilities under the Act continue to be in force after the Constitution coming into force.",
+            "C": "The Act is repealed with the enactment of the Forest (Conservation) Act, 1980.",
+            "D": "The Act enumerates a list of rights enjoyed by schedule tribes, over forest produce."
+          },
+          "answer": "B",
+          "answer_text": "Rights and liabilities under the Act continue to be in force after the Constitution coming into force."
+        },
+        {
+          "id": 120,
+          "question": "Which of the following statements is true with respect to village forests?",
+          "options": {
+            "A": "The Central Government has the power to declare any forests as village forests",
+            "B": "Reserved and unreserved forests can be declared as village forests",
+            "C": "Both of these",
+            "D": "None of these"
+          },
+          "answer": "D",
+          "answer_text": "None of these"
+        },
+        {
+          "id": 121,
+          "question": "Which of the following cases is a landmark judgement in environmental law that laid down the definition of ‘Forests’?",
+          "options": {
+            "A": "B.S. Sandhu v. Government of India",
+            "B": "Tarun Bharat Sangh, Alwar v. Union of India",
+            "C": "Nature Lovers Movement v. State of Kerala",
+            "D": "T N Godavarman Thirmalpad v. Union of India"
+          },
+          "answer": "D",
+          "answer_text": "T N Godavarman Thirmalpad v. Union of India"
+        },
+        {
+          "id": 122,
+          "question": "Which of these come under protected areas in the Wildlife Protection Act?",
+          "options": {
+            "A": "Sanctuary",
+            "B": "National Parks",
+            "C": "Conservation Reserves",
+            "D": "All of these"
+          },
+          "answer": "D",
+          "answer_text": "All of these"
+        },
+        {
+          "id": 123,
+          "question": "Cultivation of certain plants without prior approval is not prohibited under the Wildlife Protection Act, 1972.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "B",
+          "answer_text": "False"
+        },
+        {
+          "id": 124,
+          "question": "The Chief Wildlife Warden may delegate powers with prior approval of the Central Government.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "B",
+          "answer_text": "False"
+        },
+        {
+          "id": 125,
+          "question": "The rights of forest dwellers under the Forest Rights Act, 2006 are heritable.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "A",
+          "answer_text": "True"
+        },
+        {
+          "id": 126,
+          "question": "‘Van Panchayats’ are a hybrid model representing state ownership and community responsibility.",
+          "options": {
+            "A": "True",
+            "B": "False",
+            "C": "Partially True",
+            "D": "Partially False"
+          },
+          "answer": "A",
+          "answer_text": "True"
+        },
+        {
+          "id": 127,
+          "question": "The Indian Forest Act 1927 classifies forests as:",
+          "options": {
+            "A": "Reserve Forest, Village Forest, Urban Forest and Protected Forest",
+            "B": "Reserve Forest and Protected Forest",
+            "C": "Reserve Forest, Village Forest and Protected Forest",
+            "D": "Reserve Forest, Urban Forest and Protected Forest"
+          },
+          "answer": "C",
+          "answer_text": "Reserve Forest, Village Forest and Protected Forest"
+        },
+        {
+          "id": 128,
+          "question": "De-reservation of Forest Land is legally permissible under:",
+          "options": {
+            "A": "Indian Forest Act 1927",
+            "B": "Forest (Conservation) Act, 1980",
+            "C": "The Scheduled Tribe and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006",
+            "D": "None of the above"
+          },
+          "answer": "B",
+          "answer_text": "Forest (Conservation) Act, 1980"
+        },
+        {
+          "id": 129,
+          "question": "Section 2 of Forest (Conservation) Act, 1980 mandates that, for the use of forest land for non-forest purposes by any authority, prior approval of the ______ is required.",
+          "options": {
+            "A": "State Government",
+            "B": "Local Authority",
+            "C": "Central Government",
+            "D": "None of the above"
+          },
+          "answer": "C",
+          "answer_text": "Central Government"
+        },
+        {
+          "id": 130,
+          "question": "The case of T.N. GODAVARMAN THIRUMULPAD v. UOI created a watershed legal intervention predominantly for:",
+          "options": {
+            "A": "Forest Conservation",
+            "B": "Rights of forest-dwellers",
+            "C": "Cattle trespass into forest land",
+            "D": "Wildlife hunting"
+          },
+          "answer": "A",
+          "answer_text": "Forest Conservation"
+        },
+        {
+          "id": 131,
+          "question": "According to Section 2(b) of the Forest Rights Act 2006, based on scientific and objective criteria, ______ can be designated as ‘Critical Wildlife Habitat’.",
+          "options": {
+            "A": "National Parks",
+            "B": "Sanctuaries",
+            "C": "National Parks and Sanctuaries",
+            "D": "All forest lands"
+          },
+          "answer": "C",
+          "answer_text": "National Parks and Sanctuaries"
+        },
+        {
+          "id": 132,
+          "question": "Under the Forest Rights Act, 2006, a clearance for the conversion of forest lands for developmental projects must be given by:",
+          "options": {
+            "A": "State Government",
+            "B": "Central Government",
+            "C": "National Green Tribunal",
+            "D": "Gram Panchayat"
+          },
+          "answer": "D",
+          "answer_text": "Gram Panchayat"
+        },
+        {
+          "id": 133,
+          "question": "The rights vested with Forest dwellers are recognised by the Forest Rights Act, 2006 as:",
+          "options": {
+            "A": "Heritable and transferable",
+            "B": "Heritable and non-alienable",
+            "C": "Heritable, non-alienable and non-transferable",
+            "D": "Non-heritable"
+          },
+          "answer": "C",
+          "answer_text": "Heritable, non-alienable and non-transferable"
+        },
+        {
+          "id": 134,
+          "question": "The Compensatory Afforestation Fund Act, 2016 established a Compensatory Afforestation Funds out of public funds at the National and State level to comply with the Supreme Court directions in:",
+          "options": {
+            "A": "T.N. Godavarman Thirumulpad v. UOI",
+            "B": "M.C. Mehta v. UOI",
+            "C": "Indian Council for Environmental Legal Action v. Union of India",
+            "D": "Wooden Furniture Work and Ors. vs. The Government of Andhra Pradesh and Ors."
+          },
+          "answer": "A",
+          "answer_text": "T.N. Godavarman Thirumulpad v. UOI"
+        },
+        {
+          "id": 135,
+          "question": "The purpose of the Compensatory Afforestation Fund under the Compensatory Afforestation Fund Act, 2016 is to utilise the monies collected for:",
+          "options": {
+            "A": "Undertaking artificial regeneration",
+            "B": "Assisted natural regeneration",
+            "C": "Green India Programme",
+            "D": "All of the above"
+          },
+          "answer": "D",
+          "answer_text": "All of the above"
+        },
+        {
+          "id": 136,
+          "question": "To be declared as a National Park, a previous stage of being declared as a ‘sanctuary’ is required under the Wildlife Protection Act of 1972.",
+          "options": {
+            "A": "True",
+            "B": "False",
+            "C": "Partially True",
+            "D": "Partially False"
+          },
+          "answer": "B",
+          "answer_text": "False"
+        },
+        {
+          "id": 137,
+          "question": "The Wildlife Protection Act of 1972 contains the following categories of Wildlife area:",
+          "options": {
+            "A": "Games Reserve and Closed Area",
+            "B": "National Parks and Sanctuaries",
+            "C": "National Park, Sanctuary, Games Reserve and Closed Area",
+            "D": "National Parks and Wildlife habitat"
+          },
+          "answer": "B",
+          "answer_text": "National Parks and Sanctuaries"
+        },
+        {
+          "id": 138,
+          "question": "Under Section 36A of the Wildlife Protection Act of 1972, Conservation Reserves are created to act as:",
+          "options": {
+            "A": "Ecological units",
+            "B": "Special Wildlife zones",
+            "C": "Buffer Zones",
+            "D": "Dwelling units of forest-dwellers"
+          },
+          "answer": "C",
+          "answer_text": "Buffer Zones"
+        },
+        {
+          "id": 139,
+          "question": "Choose from the options given below which right out of the following rights are recognised by the Forest Rights Act, 2006. i. Right to hold and live in the forest land ii. Right of community tenures of habitat iii. Rights for conversion of Pattas or leases on forest lands to titles iv. Rights of settlement and conversion of all forest villages into revenue villages",
+          "options": {
+            "A": "i and ii",
+            "B": "i and iii",
+            "C": "i, ii, iii, and iv",
+            "D": "i, ii, and iv"
+          },
+          "answer": "C",
+          "answer_text": "i, ii, iii, and iv"
+        },
+        {
+          "id": 140,
+          "question": "Which of the following is not constituted by the Wildlife Protection Act of 1972?",
+          "options": {
+            "A": "National Ganga Council",
+            "B": "Tiger and Other Endangered Species Crime Control Bureau",
+            "C": "National Tiger Conservation Authority",
+            "D": "Central Zoo Authority"
+          },
+          "answer": "A",
+          "answer_text": "National Ganga Council"
+        }
+      ]
+    },
+    {
+      "title": "Week 8 - Water Law and Coastal Protection",
+      "questions": [
+        {
+          "id": 141,
+          "question": "Which of the following international conferences was the first to lay emphasis on the need to protect the coastlines from marine pollution?",
+          "options": {
+            "A": "Stockholm Conference on Human Environment, 1972",
+            "B": "Rio Summit on Environment and Development, 1992",
+            "C": "Johannesburg Summit on Sustainable Development, 2002",
+            "D": "None of these"
+          },
+          "answer": "A",
+          "answer_text": "Stockholm Conference on Human Environment, 1972"
+        },
+        {
+          "id": 142,
+          "question": "Which of the following doctrines advocates that an upstream country has the unrestricted right to use the water of an international river irrespective of downstream consequences?",
+          "options": {
+            "A": "Doctrine of Riparian Rights",
+            "B": "Doctrine of Equitable Distribution",
+            "C": "Doctrine of Absolute Sovereignty",
+            "D": "Doctrine of Riverian Integrity"
+          },
+          "answer": "C",
+          "answer_text": "Doctrine of Absolute Sovereignty"
+        },
+        {
+          "id": 143,
+          "question": "Which of the following case laws dealt with ecological and social implications of commercial shrimp farming in India?",
+          "options": {
+            "A": "M C Mehta v. Kamal Nath",
+            "B": "S. Jagannath v. Union of India",
+            "C": "Vanashakti v. Union of India",
+            "D": "Kerala Coastal Zone Regulatory Authority v. Maradu Municipality"
+          },
+          "answer": "B",
+          "answer_text": "S. Jagannath v. Union of India"
+        },
+        {
+          "id": 144,
+          "question": "Which of the following statements is not true with respect to the critical vulnerable coastal areas under the CRZ Notification, 2011?",
+          "options": {
+            "A": "They shall be managed with the involvement of local communities",
+            "B": "There should be an integrated management plan for their conservation",
+            "C": "The process of identifying these areas shall be the obligation of the Coastal Zone Management Authority",
+            "D": "State Governments shall offer their advice through consultations in identifying these areas"
+          },
+          "answer": "C",
+          "answer_text": "The process of identifying these areas shall be the obligation of the Coastal Zone Management Authority"
+        },
+        {
+          "id": 145,
+          "question": "Which of the following authorities is responsible for the preparation of the coastal zone management plan?",
+          "options": {
+            "A": "The State Pollution Control Board",
+            "B": "The Coastal Zone Management Authority",
+            "C": "The Expert Appraisal Committee",
+            "D": "The State Government"
+          },
+          "answer": "D",
+          "answer_text": "The State Government"
+        },
+        {
+          "id": 146,
+          "question": "Which of the following major transnational river basins in India are governed by agreements?",
+          "options": {
+            "A": "Ganga River Basin",
+            "B": "Indus River Basin",
+            "C": "Both of these",
+            "D": "None of these"
+          },
+          "answer": "C",
+          "answer_text": "Both of these"
+        },
+        {
+          "id": 147,
+          "question": "Which of the following are the features of the National Water Policy, 2012?",
+          "options": {
+            "A": "Maintenance of environmental flows in rivers",
+            "B": "Inter-basin transfer of water",
+            "C": "Management of ground water",
+            "D": "All of these"
+          },
+          "answer": "D",
+          "answer_text": "All of these"
+        },
+        {
+          "id": 148,
+          "question": "According to the Doctrine of the Riparian Integrity of sharing water resources, the upstream state has no dominant claim on the water.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "A",
+          "answer_text": "True"
+        },
+        {
+          "id": 149,
+          "question": "Rainwater harvesting is prohibited in the notified Ecologically Sensitive Areas.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "B",
+          "answer_text": "False"
+        },
+        {
+          "id": 150,
+          "question": "New York Convention deals with the protection of wetlands and ecosystems alike.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "B",
+          "answer_text": "False"
+        },
+        {
+          "id": 151,
+          "question": "Match items in List 1 with items in List 2. List 1: A. CRZ I, B. CRZ II, C. CRZ III, D. CRZ IV. List 2: i. Relatively undisturbed areas, ii. Ecologically sensitive areas, iii. Aquatic area from low tide line upto territorial limits, iv. Developed areas upto shoreline and falling within municipal limits.",
+          "options": {
+            "A": "i, ii, iii, iv",
+            "B": "iii, i, iv, ii",
+            "C": "ii, iv, i, iii",
+            "D": "iv, iii, ii, i"
+          },
+          "answer": "C",
+          "answer_text": "ii, iv, i, iii"
+        },
+        {
+          "id": 152,
+          "question": "The CRZ 2018 notification mandates that projects under CRZ 1 and CRZ IV to seek clearance from the Ministry of Environment.",
+          "options": {
+            "A": "True",
+            "B": "False",
+            "C": "Partially True",
+            "D": "Partially False"
+          },
+          "answer": "A",
+          "answer_text": "True"
+        },
+        {
+          "id": 153,
+          "question": "Which of the following is true regarding the purpose of Ecologically Sensitive Zone? i. Acts as a buffer ii. Acts as a transitional zone between high sensitive areas to low sensitive areas iii. In-situ conservation of endangered species iv. Minimise forest depletion",
+          "options": {
+            "A": "i and ii only",
+            "B": "i and iv only",
+            "C": "ii and iii only",
+            "D": "all of the above"
+          },
+          "answer": "D",
+          "answer_text": "all of the above"
+        },
+        {
+          "id": 154,
+          "question": "The National Wildlife Action Plan (2002–2006) recommended the declaration of:",
+          "options": {
+            "A": "Eco-sensitive areas",
+            "B": "Ecologically Fragile Areas",
+            "C": "Critically Sensitive Areas",
+            "D": "Critically Endangered Species Habitat"
+          },
+          "answer": "B",
+          "answer_text": "Ecologically Fragile Areas"
+        },
+        {
+          "id": 155,
+          "question": "Which of the following is not a permitted activity as per the 2019 notification on Ecologically Sensitive Zones?",
+          "options": {
+            "A": "Rainwater Harvesting",
+            "B": "Organic Farming",
+            "C": "Use of Renewable Resources",
+            "D": "Shrimp farming"
+          },
+          "answer": "D",
+          "answer_text": "Shrimp farming"
+        },
+        {
+          "id": 156,
+          "question": "World Wetlands Day is celebrated every year on:",
+          "options": {
+            "A": "2nd of February",
+            "B": "2nd of March",
+            "C": "2nd of April",
+            "D": "2nd of December"
+          },
+          "answer": "A",
+          "answer_text": "2nd of February"
+        },
+        {
+          "id": 157,
+          "question": "The Ramsar Convention of 1971 drew a legal framework for cooperative efforts among member countries to protect:",
+          "options": {
+            "A": "Endangered amphibians",
+            "B": "Olive turtles",
+            "C": "Wetlands",
+            "D": "Endangered marine species"
+          },
+          "answer": "C",
+          "answer_text": "Wetlands"
+        },
+        {
+          "id": 158,
+          "question": "Consider the following case laws. Which of the following case laws are matched with the corresponding decisions?",
+          "options": {
+            "A": "Ajai Singh Rawat v. UOI: protection of water bodies",
+            "B": "T.N. Godavarman v. UOI: prevention of crab fishing during mating season",
+            "C": "M.C. Mehta v. UOI: protection of wetlands",
+            "D": "Jagpal Singh v. State of Punjab: protection of Chilika lake"
+          },
+          "answer": "A",
+          "answer_text": "Ajai Singh Rawat v. UOI: protection of water bodies"
+        },
+        {
+          "id": 159,
+          "question": "The ______ percentage of freshwater in the world is safe for human consumption.",
+          "options": {
+            "A": "4",
+            "B": "5",
+            "C": "1",
+            "D": "0.5"
+          },
+          "answer": "D",
+          "answer_text": "0.5"
+        },
+        {
+          "id": 160,
+          "question": "Which of the following Conventions aims to reduce water-related diseases?",
+          "options": {
+            "A": "Water Courses Convention",
+            "B": "Water Convention",
+            "C": "Ramsar Convention",
+            "D": "UNECE-WHO/Europe Protocol on Water and Health, London, 1999"
+          },
+          "answer": "D",
+          "answer_text": "UNECE-WHO/Europe Protocol on Water and Health, London, 1999"
+        },
+        {
+          "id": 161,
+          "question": "Article 15 (2) (b) of the Indian Constitution casts a negative obligation on the state:",
+          "options": {
+            "A": "Not to prevent any citizen on the ground of religion, race, caste, sex or place of birth to use a public well",
+            "B": "Not to prevent any citizen on the ground of religion, race, caste, sex or place of birth to seek employment",
+            "C": "Not to prevent any citizen on the ground of religion, race, caste, sex or place of birth to avail government services",
+            "D": "None of the above"
+          },
+          "answer": "A",
+          "answer_text": "Not to prevent any citizen on the ground of religion, race, caste, sex or place of birth to use a public well"
+        },
+        {
+          "id": 162,
+          "question": "Under the Constitution, State legislature may empower the local self-government institutions like Panchayats and Municipalities to administer and implement laws concerning management of local resources including minor irrigation, fisheries, etc.",
+          "options": {
+            "A": "True",
+            "B": "False",
+            "C": "Partially True",
+            "D": "Partially False"
+          },
+          "answer": "A",
+          "answer_text": "True"
+        },
+        {
+          "id": 163,
+          "question": "Which of the following is not a key feature of the National Water Policy, 2012?",
+          "options": {
+            "A": "Integrated Water Resources Management",
+            "B": "Inter-basin transfers",
+            "C": "Sea water filtration",
+            "D": "Groundwater management"
+          },
+          "answer": "C",
+          "answer_text": "Sea water filtration"
+        },
+        {
+          "id": 164,
+          "question": "The Groundwater (Sustainable Management) Bill, 2017 recognises:",
+          "options": {
+            "A": "Water as a public trust",
+            "B": "Groundwater as a common pool resource",
+            "C": "Principle of precaution in water laws",
+            "D": "All of the above"
+          },
+          "answer": "D",
+          "answer_text": "All of the above"
+        },
+        {
+          "id": 165,
+          "question": "Water is considered as an ‘Economic Good’ under:",
+          "options": {
+            "A": "Interstate Water Disputes Act 1956",
+            "B": "National Water Policy, 2012",
+            "C": "National River Ganga (Rejuvenation, Conservation and Management) Bill, 2018",
+            "D": "None of the above"
+          },
+          "answer": "B",
+          "answer_text": "National Water Policy, 2012"
+        }
+      ]
+    },
+    {
+      "title": "Week 9 - Hazardous Waste Management",
+      "questions": [
+        {
+          "id": 166,
+          "question": "Which of the following principles is/are applicable in the strategic management of hazardous waste?",
+          "options": {
+            "A": "Precautionary principle",
+            "B": "Polluter Pays Principle",
+            "C": "Both of these",
+            "D": "None of these"
+          },
+          "answer": "C",
+          "answer_text": "Both of these"
+        },
+        {
+          "id": 167,
+          "question": "The Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter 1972 was formulated and concluded in which of the following cities?",
+          "options": {
+            "A": "Buenos Aires",
+            "B": "New York",
+            "C": "London",
+            "D": "Rotterdam"
+          },
+          "answer": "C",
+          "answer_text": "London"
+        },
+        {
+          "id": 168,
+          "question": "Which of the following conventions deals with the conservation and protection and management of living resources on the high seas and protection of the marine environment?",
+          "options": {
+            "A": "United Nations Convention on Marine Environment",
+            "B": "Ramsar Convention on Wetlands",
+            "C": "United Nations Convention on the Law of the Sea",
+            "D": "Stockholm Convention on Persistent Organic Pollutants"
+          },
+          "answer": "C",
+          "answer_text": "United Nations Convention on the Law of the Sea"
+        },
+        {
+          "id": 169,
+          "question": "Which of the following Rules is not a law enforceable in India?",
+          "options": {
+            "A": "Biomedical Waste Management Rules, 2016",
+            "B": "Nuclear Waste Management Rules, 2016",
+            "C": "Construction and Demolition Waste Management Rules, 2016",
+            "D": "E-Waste Management Rules, 2016"
+          },
+          "answer": "B",
+          "answer_text": "Nuclear Waste Management Rules, 2016"
+        },
+        {
+          "id": 170,
+          "question": "Management of hazardous waste is governed under which of the following laws in India?",
+          "options": {
+            "A": "The Water Act, 1974",
+            "B": "The Environment Protection Act, 1986",
+            "C": "The Air Act, 1981",
+            "D": "All of the above"
+          },
+          "answer": "B",
+          "answer_text": "The Environment Protection Act, 1986"
+        },
+        {
+          "id": 171,
+          "question": "Which of the following principles are used in Waste Management?",
+          "options": {
+            "A": "Precautionary Principle",
+            "B": "Polluter Pays Principle",
+            "C": "Both of these",
+            "D": "None of these"
+          },
+          "answer": "C",
+          "answer_text": "Both of these"
+        },
+        {
+          "id": 172,
+          "question": "Which government body is responsible for enforcing hazardous waste management rules in India?",
+          "options": {
+            "A": "Ministry of Environment, Forests & Climate Change",
+            "B": "Central Pollution Control Board",
+            "C": "State Pollution Control Board",
+            "D": "National Green Tribunal"
+          },
+          "answer": "C",
+          "answer_text": "State Pollution Control Board"
+        },
+        {
+          "id": 173,
+          "question": "The Waigani Convention, 1995 bans the exporting of hazardous or radioactive waste to Pacific Islands Forum Countries.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "A",
+          "answer_text": "True"
+        },
+        {
+          "id": 174,
+          "question": "The Municipal Solid Waste Management Rules, 2016 adopts a cradle to grave approach towards the management of solid waste.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "A",
+          "answer_text": "True"
+        },
+        {
+          "id": 175,
+          "question": "In B L Wadhera v. Union of India, the National Green Tribunal clamped down on government hospitals for the improper handling of biomedical waste.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "B",
+          "answer_text": "False"
+        },
+        {
+          "id": 176,
+          "question": "London ‘Dumping’ Convention 1972 seeks to prevent:",
+          "options": {
+            "A": "Marine Pollution",
+            "B": "Soil Pollution",
+            "C": "River Pollution",
+            "D": "Air pollution"
+          },
+          "answer": "A",
+          "answer_text": "Marine Pollution"
+        },
+        {
+          "id": 177,
+          "question": "Under Rule 3 (38) of the Hazardous and Other wastes (Management and Transboundary movement) Rules, 2016 (amended in 2019), Waste should have which of the following characteristics:",
+          "options": {
+            "A": "Not products and by-products of any process",
+            "B": "Non-usable for production",
+            "C": "Unintended by-products",
+            "D": "All of the above"
+          },
+          "answer": "D",
+          "answer_text": "All of the above"
+        },
+        {
+          "id": 178,
+          "question": "The most effective waste management legal arrangements are provided by the:",
+          "options": {
+            "A": "India",
+            "B": "European Union",
+            "C": "United Nations",
+            "D": "Organisation of African Union"
+          },
+          "answer": "B",
+          "answer_text": "European Union"
+        },
+        {
+          "id": 179,
+          "question": "Under Article 9 (a) of the Convention on the Control of Transboundary Movements of Hazardous Wastes and Their Disposal, Basel, 1989, the importing country’s technical capability of waste disposal is not a criteria in the presence of its consent to import hazardous wastes.",
+          "options": {
+            "A": "True",
+            "B": "False",
+            "C": "Partially True",
+            "D": "Partially False"
+          },
+          "answer": "B",
+          "answer_text": "False"
+        },
+        {
+          "id": 180,
+          "question": "The treatment and disposal of Bio-wastes under the Bio-Medical Waste (Management And Handling) Rules, 1998 include:",
+          "options": {
+            "A": "Incineration",
+            "B": "Autoclaving",
+            "C": "Microwaving",
+            "D": "All of the above"
+          },
+          "answer": "D",
+          "answer_text": "All of the above"
+        },
+        {
+          "id": 181,
+          "question": "The Supreme Court of India issued directions to dispose of unattended hazardous wastes docked in Bombay Ports and major cities in India in:",
+          "options": {
+            "A": "Law Society of India v. Fertilizers & Chemicals Travancore Ltd. (1994)",
+            "B": "In Re Le Clemenceau",
+            "C": "Research Foundation for Science Technology and Natural Resource Policy v. UOI (1997)",
+            "D": "M.C. Mehta v. UOI (1987)"
+          },
+          "answer": "C",
+          "answer_text": "Research Foundation for Science Technology and Natural Resource Policy v. UOI (1997)"
+        },
+        {
+          "id": 182,
+          "question": "Under the Hazardous and Other wastes (Management and Transboundary movement) Rules, 2016 (amended in 2019), solid plastic wastes are not allowed to be imported into:",
+          "options": {
+            "A": "Special Economic Zones",
+            "B": "Andaman & Nicobar Islands",
+            "C": "Cochin port",
+            "D": "All of the above"
+          },
+          "answer": "D",
+          "answer_text": "All of the above"
+        },
+        {
+          "id": 183,
+          "question": "B.L. Wadhera v. UOI (1996) triggered the enactment of:",
+          "options": {
+            "A": "Hazardous and Other wastes (Management and Transboundary movement) Rules, 2016",
+            "B": "The Bio-Medical Waste (Management And Handling) Rules, 1998",
+            "C": "E-waste (Management and Handling) Rules, 2011",
+            "D": "None of the above"
+          },
+          "answer": "B",
+          "answer_text": "The Bio-Medical Waste (Management And Handling) Rules, 1998"
+        },
+        {
+          "id": 184,
+          "question": "Which of the following is a part of waste management process under Solid Waste Management Rules, 2016?",
+          "options": {
+            "A": "Promoting use of compost",
+            "B": "Spot fine",
+            "C": "Levying user fee on bulk generators by Local Bodies",
+            "D": "All of the above"
+          },
+          "answer": "D",
+          "answer_text": "All of the above"
+        },
+        {
+          "id": 185,
+          "question": "Under Schedule 1 of the Bio-Medical Waste (Management And Handling) Rules, 1998, which of the following are considered as Bio waste?",
+          "options": {
+            "A": "Waste Sharps",
+            "B": "Incineration Ash",
+            "C": "Microbiology and Biotechnology waste",
+            "D": "All of the above"
+          },
+          "answer": "D",
+          "answer_text": "All of the above"
+        },
+        {
+          "id": 186,
+          "question": "There is an export ban on hazardous wastes to Antarctica under the Convention on the Control of Transboundary Movements of Hazardous Wastes and Their Disposal, Basel, 1989.",
+          "options": {
+            "A": "True",
+            "B": "False",
+            "C": "Partially True",
+            "D": "Partially False"
+          },
+          "answer": "A",
+          "answer_text": "True"
+        },
+        {
+          "id": 187,
+          "question": "The Bio-Medical Waste (Management And Handling) Rules, 1998 have recommended the use of specific coloured dustbins for waste disposals. Match items in List 1 with items in List 2.",
+          "list_1": {
+            "A": "Yellow Container or Bags",
+            "B": "Red Container or Bags",
+            "C": "Blue Container or Bags",
+            "D": "Black Container or Bags"
+          },
+          "list_2": {
+            "i": "Waste Sharps",
+            "ii": "Human Anatomical Waste",
+            "iii": "Discarded medicines",
+            "iv": "Infected Plastics Wastes"
+          },
+          "options": {
+            "A": "i, ii, iii, iv",
+            "B": "iii, i, iv, ii",
+            "C": "ii, iv, i, iii",
+            "D": "iv, iii, ii, i"
+          },
+          "answer": "C",
+          "answer_text": "ii, iv, i, iii"
+        },
+        {
+          "id": 188,
+          "question": "The waste management focus under the Solid Waste Management Rules, 2016 is limited only to municipal solid wastes.",
+          "options": {
+            "A": "True",
+            "B": "False",
+            "C": "Partially True",
+            "D": "Partially False"
+          },
+          "answer": "B",
+          "answer_text": "False"
+        },
+        {
+          "id": 189,
+          "question": "Under the Hazardous and Other Wastes (Management and Transboundary Movement) Rules, 2016 (Amended in 2019), the State Pollution Control Board is mandated to prepare:",
+          "options": {
+            "A": "Annual Inventory of waste generated and disposed",
+            "B": "Quarterly Inventory of waste generated and disposed",
+            "C": "Monthly Inventory of waste generated and disposed",
+            "D": "None of the above"
+          },
+          "answer": "A",
+          "answer_text": "Annual Inventory of waste generated and disposed"
+        },
+        {
+          "id": 190,
+          "question": "Which of the following is not an objective of Bio-Medical Waste (Management And Handling) Rules, 1998?",
+          "options": {
+            "A": "To Reduce Infectious or Hazardous nature of Waste",
+            "B": "Reduce Volume & Extent of Production of Bio Wastes",
+            "C": "Prevent Misuse of Waste",
+            "D": "None of the above"
+          },
+          "answer": "D",
+          "answer_text": "None of the above"
+        }
+      ]
+    },
+    {
+      "title": "Week 10 - Environmental Law and Environmental Justice",
+      "questions": [
+        {
+          "id": 191,
+          "question": "Which of the following statements is true with respect to the right to a clean and healthy environment in India?",
+          "options": {
+            "A": "The right is a product of judicial activism",
+            "B": "The right is not available to non-resident citizens",
+            "C": "The right is an extension of a right to property",
+            "D": "None of these"
+          },
+          "answer": "A",
+          "answer_text": "The right is a product of judicial activism"
+        },
+        {
+          "id": 192,
+          "question": "How many types of writs can the courts grant under the writ jurisdiction?",
+          "options": {
+            "A": "1",
+            "B": "3",
+            "C": "6",
+            "D": "5"
+          },
+          "answer": "D",
+          "answer_text": "5"
+        },
+        {
+          "id": 193,
+          "question": "Which of the following statements is true with respect to the concept of environmental justice?",
+          "options": {
+            "A": "It refers to justice that ensures human and environmental equity",
+            "B": "It addresses inequity resulting from disproportionate sharing of benefits between different categories of society",
+            "C": "Both of these",
+            "D": "None of these"
+          },
+          "answer": "C",
+          "answer_text": "Both of these"
+        },
+        {
+          "id": 194,
+          "question": "Which of the following courts are vested with the power to issue writs in matters involving environmental issues?",
+          "options": {
+            "A": "The National Green Tribunal",
+            "B": "The High Courts",
+            "C": "The District Courts",
+            "D": "None of these"
+          },
+          "answer": "B",
+          "answer_text": "The High Courts"
+        },
+        {
+          "id": 195,
+          "question": "Which of the following cases is an appropriate example for judicial intervention on environmental governance through issuance of continuing mandamus?",
+          "options": {
+            "A": "S Jagannath v. Union of India, 1997",
+            "B": "M C Mehta v. Union of India, 1991",
+            "C": "The Goa Foundation v. Konkan Railway Administration, 1992",
+            "D": "Rural Litigation and Entitlement Kendra v. State of Uttar Pradesh, 1985"
+          },
+          "answer": "B",
+          "answer_text": "M C Mehta v. Union of India, 1991"
+        },
+        {
+          "id": 196,
+          "question": "Who appoints the Chairperson and other members of the National Green Tribunal?",
+          "options": {
+            "A": "The President of India",
+            "B": "Prime Minister of India",
+            "C": "Chief Justice of India",
+            "D": "Minister of Environment, Forests & Climate Change"
+          },
+          "answer": "C",
+          "answer_text": "Chief Justice of India"
+        },
+        {
+          "id": 197,
+          "question": "What is the primary objective of the National Green Tribunal (NGT)?",
+          "options": {
+            "A": "To promote industrial growth without considering environmental concerns",
+            "B": "To enforce strict penalties on individuals and organizations violating environmental laws",
+            "C": "To provide a speedy resolution to environmental disputes",
+            "D": "To promote awareness and education about environmental conservation"
+          },
+          "answer": "C",
+          "answer_text": "To provide a speedy resolution to environmental disputes"
+        },
+        {
+          "id": 198,
+          "question": "The right to a clean and healthy environment is a corollary of the right to life.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "A",
+          "answer_text": "True"
+        },
+        {
+          "id": 199,
+          "question": "In Rural Litigation and Entitlement Kendra v. State of UP, the Supreme Court invoked its epistolary jurisdiction in public interest to address environmental pollution.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "A",
+          "answer_text": "True"
+        },
+        {
+          "id": 200,
+          "question": "S Jagannath v. Union of India, 1997 case is an appropriate example for judicial intervention on environmental governance through issuance of continuing mandamus.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "B",
+          "answer_text": "False"
+        },
+        {
+          "id": 201,
+          "question": "Which of the following is not a reason for the Higher judiciary to act as an environmental justice dispenser?",
+          "options": {
+            "A": "Poor drafting of environmental statutes",
+            "B": "Continuous dilution of environmental statutes through frequent amendments",
+            "C": "Inefficient administration and enforcement of the environmental statutes",
+            "D": "None of the above"
+          },
+          "answer": "D",
+          "answer_text": "None of the above"
+        },
+        {
+          "id": 202,
+          "question": "The concept of continuing mandamus was propounded in which of the following cases?",
+          "options": {
+            "A": "Centre of Social Justice v. UOI",
+            "B": "Union Carbide Corporation v. UOI",
+            "C": "TN Godavarman v. UOI",
+            "D": "Shivarao Shantaram Wagle v. UOI"
+          },
+          "answer": "C",
+          "answer_text": "TN Godavarman v. UOI"
+        },
+        {
+          "id": 203,
+          "question": "Which of the following are illustrations of judicial activism towards environmental justice?",
+          "options": {
+            "A": "Elevating environmental problems to the status of violation of FRs",
+            "B": "Expanding horizons of human rights to include right to environment",
+            "C": "Protecting tribal rights by preserving forests",
+            "D": "All of the above"
+          },
+          "answer": "D",
+          "answer_text": "All of the above"
+        },
+        {
+          "id": 204,
+          "question": "Which of the following is a negative aspect of relying on PILs for environmental justice?",
+          "options": {
+            "A": "Delays in deciding PILs leading to confrontation with Executive",
+            "B": "Finality of decision of Supreme Court and no option of further appeal",
+            "C": "Continuous confrontation between judiciary and the executive",
+            "D": "All of the above"
+          },
+          "answer": "D",
+          "answer_text": "All of the above"
+        },
+        {
+          "id": 205,
+          "question": "Which of the following is not a salient feature of the Public Liability Insurance Act, 1991?",
+          "options": {
+            "A": "Imposition of no-fault liability against owners of hazardous substances",
+            "B": "Allows any person who is injured or whose property is damaged to claim relief",
+            "C": "Removes any limitation period for claiming relief",
+            "D": "Provides strict penalties for violation"
+          },
+          "answer": "C",
+          "answer_text": "Removes any limitation period for claiming relief"
+        },
+        {
+          "id": 206,
+          "question": "The Public Liability Insurance Act, 1991 was enacted due to which of the following tragedies?",
+          "options": {
+            "A": "Bhopal gas tragedy",
+            "B": "Oleum Gas leak",
+            "C": "Uphaar Cinema Tragedy",
+            "D": "None of the above"
+          },
+          "answer": "A",
+          "answer_text": "Bhopal gas tragedy"
+        },
+        {
+          "id": 207,
+          "question": "The National Environment Tribunal Act, 1995 was enacted due to which of the following tragedies?",
+          "options": {
+            "A": "Bhopal gas tragedy",
+            "B": "Oleum Gas leak",
+            "C": "Uphaar Cinema Tragedy",
+            "D": "None of the above"
+          },
+          "answer": "B",
+          "answer_text": "Oleum Gas leak"
+        },
+        {
+          "id": 208,
+          "question": "Which of the following is not a salient feature of the National Environment Tribunal Act, 1995?",
+          "options": {
+            "A": "Created a mechanism to hear and decide upon compensation for the death of or injury to a person and damage to property and environment caused by accidents in handling of Hazardous Substances and activities",
+            "B": "Bench to comprise of both judicial and technical members",
+            "C": "Bench bound by procedure of CPC",
+            "D": "The orders of the Tribunal were enforceable as decrees of a court of law"
+          },
+          "answer": "C",
+          "answer_text": "Bench bound by procedure of CPC"
+        },
+        {
+          "id": 209,
+          "question": "Which of the following was not a reason for enacting the Environmental Appellate Authority Act, 1997?",
+          "options": {
+            "A": "Need for authentication of EIA process by Appellate Body",
+            "B": "Problem of normal courts to adjudge on the scientific issues involved in environmental matters",
+            "C": "Need for reducing arrears of the High Court and Supreme Court",
+            "D": "None of the above"
+          },
+          "answer": "C",
+          "answer_text": "Need for reducing arrears of the High Court and Supreme Court"
+        },
+        {
+          "id": 210,
+          "question": "Which of the following is not a salient feature of the Environmental Appellate Authority Act, 1997?",
+          "options": {
+            "A": "Authority not bound by CPC",
+            "B": "Restricts jurisdiction of civil courts",
+            "C": "Appeal to the High Court having territorial jurisdiction over dispute",
+            "D": "None of the above"
+          },
+          "answer": "C",
+          "answer_text": "Appeal to the High Court having territorial jurisdiction over dispute"
+        },
+        {
+          "id": 211,
+          "question": "Which of the following was the main reason for the failure of the Environmental Appellate Authority Act?",
+          "options": {
+            "A": "No power with the authority to enforce its orders",
+            "B": "Failure to create awareness about the Act",
+            "C": "Reluctance on part of retired judges to accept appointment to the authority",
+            "D": "Failure of the government to appoint a Chairman"
+          },
+          "answer": "D",
+          "answer_text": "Failure of the government to appoint a Chairman"
+        },
+        {
+          "id": 212,
+          "question": "Which of the following is one success of the Environmental Appellate Authority?",
+          "options": {
+            "A": "Provided a blueprint for a Professional and Scientifically equipped Adjudicatory Body to adjudicate on Environmental Problems through NGT",
+            "B": "Showed that tribunals can function effectively with proper infrastructure and personnel",
+            "C": "Helped in reducing arrears of High Courts and Supreme Court",
+            "D": "None of the above"
+          },
+          "answer": "A",
+          "answer_text": "Provided a blueprint for a Professional and Scientifically equipped Adjudicatory Body to adjudicate on Environmental Problems through NGT"
+        },
+        {
+          "id": 213,
+          "question": "Which of the following is a unique feature of environmental legislations?",
+          "options": {
+            "A": "The designated authority performs both administrative and adjudicatory functions",
+            "B": "Designated authorities are not bound by the procedure of CPC",
+            "C": "Designated authorities enjoy the powers of a civil court",
+            "D": "None of the above"
+          },
+          "answer": "A",
+          "answer_text": "The designated authority performs both administrative and adjudicatory functions"
+        },
+        {
+          "id": 214,
+          "question": "In which of the following cases did the Supreme Court hold that the ‘right to environment’ is a derivative of the ‘right to life’?",
+          "options": {
+            "A": "Subhash Kumar v. State of Bihar",
+            "B": "M.C. Mehta v. Kamal Nath",
+            "C": "Indian Council for Enviro-Legal Action v. Union of India",
+            "D": "Animal Welfare Board of India v. A Nagaraj"
+          },
+          "answer": "A",
+          "answer_text": "Subhash Kumar v. State of Bihar"
+        },
+        {
+          "id": 215,
+          "question": "Which of the following is a pre-requisite to file a PIL for environmental cases?",
+          "options": {
+            "A": "Bonafide cause",
+            "B": "Larger Public Interest",
+            "C": "Locus Standi",
+            "D": "Both a and b"
+          },
+          "answer": "D",
+          "answer_text": "Both a and b"
+        }
+      ]
+    },
+    {
+      "title": "Week 11 - National Green Tribunal",
+      "questions": [
+        {
+          "id": 216,
+          "question": "In which of the following cases did the Supreme Courts suggest for the setting up of a National Environmental Court to provide relief from the damages caused by the handling of hazardous substances?",
+          "options": {
+            "A": "Sachidananda Pandey v. State of West Bengal",
+            "B": "M C Mehta v. Union of India",
+            "C": "M C Mehta v. Kamalnath",
+            "D": "Manoj Mishra v. Union of India"
+          },
+          "answer": "B",
+          "answer_text": "M C Mehta v. Union of India"
+        },
+        {
+          "id": 217,
+          "question": "Which of the following statements is true with respect to the National Environmental Tribunal set up under the National Environmental Tribunal Act, 1995?",
+          "options": {
+            "A": "It had the power to award damages for death as well as injury to human beings",
+            "B": "It had the power to award damages for accidents caused due to mishandling of hazardous substances",
+            "C": "Both of these",
+            "D": "None of these"
+          },
+          "answer": "D",
+          "answer_text": "None of these"
+        },
+        {
+          "id": 218,
+          "question": "Which of the following statements is not true with respect to the composition of the National Green Tribunal?",
+          "options": {
+            "A": "The chairman must be a judicial member",
+            "B": "The maximum number of expert members is 20",
+            "C": "The chairperson must be appointed by the Chief Justice of India",
+            "D": "The members cannot hold any other office during their tenure as a member of the tribunal"
+          },
+          "answer": "C",
+          "answer_text": "The chairperson must be appointed by the Chief Justice of India"
+        },
+        {
+          "id": 219,
+          "question": "In respect of which of the following legislations does the NGT not have jurisdiction?",
+          "options": {
+            "A": "Environment (Protection) Act, 1986",
+            "B": "Biological Diversity Act, 2002",
+            "C": "Wildlife (Protection) Act, 1972",
+            "D": "Air (Prevention and Control of Pollution) Act, 1981"
+          },
+          "answer": "C",
+          "answer_text": "Wildlife (Protection) Act, 1972"
+        },
+        {
+          "id": 220,
+          "question": "Which of the following is an objective of setting up the National Green Tribunal?",
+          "options": {
+            "A": "Expeditious disposal of cases relating to the environment",
+            "B": "Enforcement of legal rights relating to the environment",
+            "C": "Award damages for environmental harms",
+            "D": "All of these"
+          },
+          "answer": "D",
+          "answer_text": "All of these"
+        },
+        {
+          "id": 221,
+          "question": "When was the National Green Tribunal established in India?",
+          "options": {
+            "A": "1991",
+            "B": "2002",
+            "C": "2010",
+            "D": "2018"
+          },
+          "answer": "C",
+          "answer_text": "2010"
+        },
+        {
+          "id": 222,
+          "question": "Which of the following acts as the appellate authority for appeals against the decisions of the National Green Tribunal?",
+          "options": {
+            "A": "Supreme Court of India",
+            "B": "High Court of the respective state",
+            "C": "Ministry of Environment, Forests & Climate Change",
+            "D": "State Pollution Control Board"
+          },
+          "answer": "A",
+          "answer_text": "Supreme Court of India"
+        },
+        {
+          "id": 223,
+          "question": "The National Green Tribunal can entertain matters pertaining to the violation of the fundamental right to a clean and wholesome environment under Part IV of the Constitution of India.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "A",
+          "answer_text": "True"
+        },
+        {
+          "id": 224,
+          "question": "The NGT is bound by the procedure enumerated under the Civil Procedure Code.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "B",
+          "answer_text": "False"
+        },
+        {
+          "id": 225,
+          "question": "The NGT is conferred with appellate and original jurisdiction.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "A",
+          "answer_text": "True"
+        },
+        {
+          "id": 226,
+          "question": "Which of the following were precursors to the National Green Tribunal?",
+          "options": {
+            "A": "National Environmental Tribunal",
+            "B": "National Environment Appellate Authority",
+            "C": "Both (a) and (b)",
+            "D": "None of these"
+          },
+          "answer": "C",
+          "answer_text": "Both (a) and (b)"
+        },
+        {
+          "id": 227,
+          "question": "Which of the following is an objective of the National Green Tribunal?",
+          "options": {
+            "A": "Effective and expeditious disposal of cases relating to environmental protection",
+            "B": "Enforcement of any legal right relating to environment",
+            "C": "Giving relief and compensation for damages to persons and property",
+            "D": "All of these"
+          },
+          "answer": "D",
+          "answer_text": "All of these"
+        },
+        {
+          "id": 228,
+          "question": "What is the maximum number of judicial members of the NGT?",
+          "options": {
+            "A": "10",
+            "B": "15",
+            "C": "20",
+            "D": "25"
+          },
+          "answer": "C",
+          "answer_text": "20"
+        },
+        {
+          "id": 229,
+          "question": "Substantive question relating to environment includes:",
+          "options": {
+            "A": "Direct violation of a specific environmental obligation",
+            "B": "Environmental consequences relate to a specific activity or a point source of pollution",
+            "C": "Both (a) and (b)",
+            "D": "None of these"
+          },
+          "answer": "C",
+          "answer_text": "Both (a) and (b)"
+        },
+        {
+          "id": 230,
+          "question": "In Goa Foundation v. Union of India, the NGT held that a substantial question related to environment must be:",
+          "options": {
+            "A": "A question which is debatable",
+            "B": "A question which is not previously settled",
+            "C": "It must have a material bearing on the case",
+            "D": "All of these"
+          },
+          "answer": "D",
+          "answer_text": "All of these"
+        },
+        {
+          "id": 231,
+          "question": "Which of the following is a requirement to invoke jurisdiction of NGT under Section 14?",
+          "options": {
+            "A": "Civil Case",
+            "B": "A question of law",
+            "C": "Violation of fundamental right",
+            "D": "None of these"
+          },
+          "answer": "A",
+          "answer_text": "Civil Case"
+        },
+        {
+          "id": 232,
+          "question": "NGT does not has the jurisdiction to decide the constitutionality of a statute.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "A",
+          "answer_text": "True"
+        },
+        {
+          "id": 233,
+          "question": "The principal bench of the NGT is in Chennai.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "B",
+          "answer_text": "False"
+        },
+        {
+          "id": 234,
+          "question": "Only a former or sitting judge of SC can be appointed as chairperson of NGT.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "B",
+          "answer_text": "False"
+        },
+        {
+          "id": 235,
+          "question": "In Techi Tagi Tara v. Rajendra Singh Bhandari, it was held that appointment of Chairman of State Pollution Control Board is a substantial question related to environment.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "B",
+          "answer_text": "False"
+        }
+      ]
+    },
+    {
+      "title": "Week 12 - Environmental Justice",
+      "questions": [
+        {
+          "id": 236,
+          "question": "The Indian brand of environment justice dispensation can be characterized by which of the following features?",
+          "options": {
+            "A": "Justice delivered by higher judiciary",
+            "B": "Justice delivered by specialized bodies",
+            "C": "Justice delivered by authorities within the statutory framework",
+            "D": "All of these"
+          },
+          "answer": "D",
+          "answer_text": "All of these"
+        },
+        {
+          "id": 237,
+          "question": "Which of the following grounds is a valid ground for the Court to reject a public interest litigation?",
+          "options": {
+            "A": "If the petitioner has come with come with malafide intention",
+            "B": "If the petition has no legal merit",
+            "C": "Both of these",
+            "D": "None of these"
+          },
+          "answer": "C",
+          "answer_text": "Both of these"
+        },
+        {
+          "id": 238,
+          "question": "Which of the following can be considered to be a drawback of the administrative set-up of environmental institutions?",
+          "options": {
+            "A": "Multiplicity of bureaucratic institutions",
+            "B": "Overlapping powers and responsibilities",
+            "C": "Lack of specialised training",
+            "D": "All of these"
+          },
+          "answer": "D",
+          "answer_text": "All of these"
+        },
+        {
+          "id": 239,
+          "question": "What does the doctrine of good faith imply?",
+          "options": {
+            "A": "That every accused person must be viewed with the lens of a good man",
+            "B": "That every person must be presumed guilty until innocent",
+            "C": "Both of these",
+            "D": "None of these"
+          },
+          "answer": "A",
+          "answer_text": "That every accused person must be viewed with the lens of a good man"
+        },
+        {
+          "id": 240,
+          "question": "Which of the following statements is true with respect to the ‘Zero Defect Zero Effect’ strategy of the government under the Make in India initiative?",
+          "options": {
+            "A": "The quality of the products produced in India has to be very high",
+            "B": "The products produced in India should have the least adverse effect on the environment",
+            "C": "Both of these",
+            "D": "None of these"
+          },
+          "answer": "D",
+          "answer_text": "None of these"
+        },
+        {
+          "id": 241,
+          "question": "Which of the following statements is true with respect to the role of the higher judiciary in the first phase of environmental governance?",
+          "options": {
+            "A": "The judiciary was a mute spectator",
+            "B": "The judiciary was bound by rigours of statutory provisions",
+            "C": "The judiciary played a proactive activist role",
+            "D": "The judiciary was supported with specialized agencies/bodies in handling environmental matters"
+          },
+          "answer": "C",
+          "answer_text": "The judiciary played a proactive activist role"
+        },
+        {
+          "id": 242,
+          "question": "Which of the following statements can be considered to be a critique of the environment justice dispensation system in India?",
+          "options": {
+            "A": "Lack of access to environmental criminal justice",
+            "B": "Ineffective implementation of the communitarian system of management",
+            "C": "Lack of a coherent legislation to tackle rising effects of climate change",
+            "D": "All of these"
+          },
+          "answer": "D",
+          "answer_text": "All of these"
+        },
+        {
+          "id": 243,
+          "question": "The implication of the term ‘public trustee’ is that the state must repose faith in communities of people who have been conservers of the environment.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "B",
+          "answer_text": "False"
+        },
+        {
+          "id": 244,
+          "question": "The absence of a private motive is not a prerequisite to file a public interest litigation.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "B",
+          "answer_text": "False"
+        },
+        {
+          "id": 245,
+          "question": "The multiplicity of bureaucratic institutions can be considered a drawback of the administrative set-up of environmental decision making.",
+          "options": {
+            "A": "True",
+            "B": "False"
+          },
+          "answer": "A",
+          "answer_text": "True"
+        },
+        {
+          "id": 246,
+          "question": "Which of the following statements is true with respect to Public Interest Litigation in India?",
+          "options": {
+            "A": "It is a creation of the judiciary",
+            "B": "It allows for expansive interpretation of rights",
+            "C": "It provides for an expansion of the jurisdiction of the courts",
+            "D": "All of these"
+          },
+          "answer": "D",
+          "answer_text": "All of these"
+        },
+        {
+          "id": 247,
+          "question": "Which of the following is a pre-requisite to file a public interest litigation?",
+          "options": {
+            "A": "Involvement of some matter of public interest",
+            "B": "Absence of private motive",
+            "C": "Bona-fide intention of the litigant",
+            "D": "All of these"
+          },
+          "answer": "D",
+          "answer_text": "All of these"
+        }
+      ]
+    }
+  ]
+}
