@@ -18,6 +18,7 @@ Then visit `http://localhost:8000`.
 - Graded practice with submission score and full answer review
 - Non-graded practice with immediate answer feedback
 - Unlimited retakes; best score, completion, and attempt count persist in the browser
+- Answer feedback appears immediately after selecting an option in either practice mode
 - Responsive layout for desktop and mobile
 
 The bundled `public/nptel.json` contains all questions from the supplied JSON, normalized from nested sections while preserving the original question records and answers.
